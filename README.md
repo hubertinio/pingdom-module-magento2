@@ -1,0 +1,1 @@
+# pingdom-module-magento2
