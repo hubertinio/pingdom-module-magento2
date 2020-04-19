@@ -1,0 +1,21 @@
+{
+    "name": "hubertinio/pingdom-module-magento2",
+    "description": "Install pingdom.com Visitor Insights (RUM) script on your site",
+    "type": "module",
+    "keywords": [
+        "magento",
+        "pingdom.com"
+    ],
+    "homepage": "https://github.com/hubertinio/pingdom-module-magento2",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Hubert Miazek",
+            "email": "mr@hubertmiazek.com",
+            "role": "developer"
+        }
+    ],
+    "suggest": {
+        "magento/project-community-edition": "*"
+    }
+}
